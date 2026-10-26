@@ -1,2 +1,2 @@
-# FL Tournament Manager – Android project
+# FL Tournament Manager Project
 
